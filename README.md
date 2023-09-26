@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Project demo
 ![Screenshot](src/assets/1.jpg)
 <br>
-![Screenshot](assets/2.JPG)
+![Screenshot](src/assets/2.JPG)
